@@ -1,3 +1,9 @@
+---
+tags: kids, arrays
+languages: ruby
+level: 1
+type: lab
+---
 #Interactive Practice: Manipulating Arrays
 
 + Create an array called four_letter_countries with the following countries (in this order):
