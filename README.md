@@ -21,7 +21,7 @@ type: lab
 
 + Delete **India**
 
-+ Reverse the order of the array
++ **Reverse** the order of the array
 
 + Replace Greenland with **Togo**
 
