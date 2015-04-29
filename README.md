@@ -31,10 +31,3 @@ type: lab
 
 + Add **Peru** to the start of the array
 
-???
-# What does your final array look like?
-
-?: Add your final array here and check to see if you got the right answer!
-[-]
-
-???
