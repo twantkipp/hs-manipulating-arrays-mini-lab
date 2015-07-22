@@ -37,7 +37,7 @@ type: lab
 
 ?: Answer here:
 ( ) "["Peru", "Chad", "Laos", "Cuba", "Togo", "Mali", "Iran", "Iraq", "Fiji", "Oman"]"
-(X) "["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]"
+( X ) "["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]"
 ( ) "["Fiji", "Oman", "Mali", "Iran", "Iraq", "Togo", "Cuba", "Chad", "Peru", "Laos"]"
 ( ) "["Oman", "Mali", "Fiji", "Iran", "Iraq", "Cuba", "Togo", "Chad", "Peru", "Laos"]"
 
