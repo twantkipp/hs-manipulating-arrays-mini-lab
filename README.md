@@ -1,9 +1,4 @@
----
-tags: kids, arrays
-languages: ruby
-level: 1
-type: lab
----
+
 ##Know Your Four Letter Countries
 <img src="https://s3.amazonaws.com/after-school-assets/globe.jpeg" align="right" width="300px" hspace="10"> 
 + Create an array called `four_letter_countries` with the following countries (in this order):
