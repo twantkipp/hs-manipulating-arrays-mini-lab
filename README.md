@@ -37,3 +37,5 @@
 ( ) `["Oman", "Mali", "Fiji", "Iran", "Iraq", "Cuba", "Togo", "Chad", "Peru", "Laos"]`
 
 ???
+
+<a href='https://learn.co/lessons/hs-manipulating-arrays-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
