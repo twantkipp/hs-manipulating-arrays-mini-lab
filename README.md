@@ -26,11 +26,12 @@
 
 + Add **Peru** to the start of the array
 
-??? 
+???
 
-# What does your final array look like
+# What does your final array look like?
 
 ?: Answer here:
+
 ( ) `["Peru", "Chad", "Laos", "Cuba", "Togo", "Mali", "Iran", "Iraq", "Fiji", "Oman"]`
 (X) `["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]`
 ( ) `["Fiji", "Oman", "Mali", "Iran", "Iraq", "Togo", "Cuba", "Chad", "Peru", "Laos"]`
