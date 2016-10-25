@@ -26,7 +26,6 @@
 
 + Add **Peru** to the start of the array
 
-???
 
 # What does your final array look like?
 
